@@ -1,5 +1,5 @@
 var app = angular.module('tvchat', [
-	'ionic',
+	'ionic','ionic.service.core',
 	'ngCordova',
 	'firebase',
 	'angularMoment',
